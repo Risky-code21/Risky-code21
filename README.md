@@ -11,12 +11,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **PINDAI and Iky Social**
-- 🌱 I’m currently learning **React, Node.js, & IoT with ESP32**
-- 👯 I’m looking to collaborate on **Open Source Projects & IoT innovations**
+- 🔭 I’m currently working on my personal project **AgroSense**
+- 🌱 I’m currently learning **React, Node.js, Cyber, & IoT with ESP32**
+- 👯 I’m looking to collaborate on **IoT innovations Project**
 - 💬 Ask me about **Web Development, Laravel, & Hardware Engineering**
-- 📫 How to reach me: **[Masukkan Email Kamu di Sini]**
-- ⚡ Fun fact: **I love coding, customizing my workspace, and exploring Balinese linguistics!**
+- 📫 How to reach me: **iputuriskyandikaputra@gmail.com**
+- ⚡ Fun fact: **I love coding, customizing my workspace, and exploring any new various tools**
 
 ### 🛠 Tech Stack
 <p align="left">
@@ -26,13 +26,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Risky-code21&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
